@@ -1,11 +1,11 @@
-<h1 align="center">BVAI v1.0</h1>
+<h1 align="center">SVAI v1.0</h1>
 <p align="center">
       A new facebook account cracker tool for termux users
 </p>
 
 ## 馃攳 ***About FBMailHack***:
 
-BVAI is a python based script. You can use this tool for crack facebook users EMAIL passwords. This tool works on both rooted Android device and Non-rooted Android device.
+SVAI is a python based script. You can use this tool for crack facebook users EMAIL passwords. This tool works on both rooted Android device and Non-rooted Android device.
 
 ## All commands for install this tool
 $ pkg update && pkg upgrade
