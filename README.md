@@ -3,7 +3,7 @@
       A new facebook account cracker tool for termux users
 </p>
 
-## 馃攳 ***About BVAI***:
+## 馃攳 ***About FBMailHack***:
 
 BVAI is a python based script. You can use this tool for crack facebook users EMAIL passwords. This tool works on both rooted Android device and Non-rooted Android device.
 
@@ -22,7 +22,7 @@ $ pkg install php
 <br/>
 $ pkg install openssh
 <br/>
-$ git clone https://github.com/botolmehedi/bvai
+$ git clone https://github.com/ShahedNoor/FBMailHack
 <br/>
 $ pip2 install requests
 <br/>
@@ -30,9 +30,9 @@ $ pip2 install mechanize
 <br/>
 $ ls
 <br/>
-$ cd bvai
+$ cd FBMailHack
 <br/>
-$ python2 bvai.py
+$ python2 FBMailHack.py
 <br/>
 ...
 <br/>
@@ -48,27 +48,15 @@ $ python2 bvai.py
 ## 馃敆 ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/MasterTrick1
-
-### Chekout our webite:
-https://www.mastertrick.design
+https://www.youtube.com/channel/UCIXobCPf8An4fXHr_fuXRgg
 
 ## 馃懃 ***Join***
 
 ### Facebook group: 
-https://www.facebook.com/groups/231747098048450
-
-### Telegram channel:
-https://t.me/mastertrick2
-
-### Facebook page:
-https://www.facebook.com/TeamVVirus
-
-### Instagram: 
-https://www.instagram.com/MehtanOfficial
+https://www.facebook.com/groups/736426820203523/?ref=share
 
 ### My GitHub ID link:
-https://www.github.com/BotolMehedi
+https://www.github.com/ShahedNoor
 
 ### 馃摙 Warning
 
