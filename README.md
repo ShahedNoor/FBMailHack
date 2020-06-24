@@ -32,7 +32,7 @@ $ ls
 <br/>
 $ cd FBMailHack
 <br/>
-$ python2 bvai.py
+$ python2 svai.py
 <br/>
 ...
 <br/>
